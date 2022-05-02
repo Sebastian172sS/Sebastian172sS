@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sebastian172sS, soy un estudiante de ingeniera de sistema  y futuro desarroador web
+- 👀  Me gusta aprender nuevos lenguajes, mi favorito es javascript y tal vez C# 
+- 🌱 I’m currently lear C# aunque no  lo comprenda bien por ahora, creo que voy a dominarlo 
+- 💞️  Me gustaria trabajar en equipo en algun proyecto, cuando tenga suficiente concimineto en el area de frontend
+- 📫 How to reach me ...
